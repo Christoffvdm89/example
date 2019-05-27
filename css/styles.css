@@ -1,0 +1,13 @@
+/* This is base styles for the pages*/
+
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: bisque;
+    font-weight: 300;
+    font-size: 2em;
+    margin-left: 1.4em;
+    text-transform: uppercase;
+}
